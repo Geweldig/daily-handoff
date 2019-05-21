@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Tips for your Daily Handoff
-description: Helping you and your team ease their way into Follow-the-sun development
+description: Helping you and your team ease your way into Follow-the-sun development
 plugins:
     - jekyll-seo-tag
