@@ -1,4 +1,6 @@
-Daily handoffs are an integral part of [Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) development. In order to efficiently start performing your daily handoffs, we have outlined a number of key guidelines you should take into account. These guidelines aim to ease your way into successfully performing Follow-the-sun development.
+[Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) development, a sub-field of globally distributed software engineering [(GDSE)](https://en.wikipedia.org/wiki/Distributed_development#Globally_Distributed_Software_Engineering), allows teams all over the world to actively cooperate on the same product. A major part of Follow-the-sun development is the daily handoff (also referred to as the daily hand-off or daily handover). These daily handoffs are meant to transfer the knowledge of the system from a development team which is stopping for the day to a team which is just starting for the day. 
+
+With these guidelines we aim to help you start performing your daily handoffs efficiently, as they are important topics you should keep in mind. By this we hope you and your peers can become more productive, and effectively use Follow-the-sun development in practice.
 
 ## Be concise
 The overlap in time you and your peers have might be limited. In order to use this time effectively, make sure to stay concise during your handoff. Taking a lot of time discussing minute details wastes the limited amount of communication time you have with your peers, which may result in important details being overlooked!
@@ -24,3 +26,34 @@ This is great advice for Follow-the-sun development in general, but is especiall
 ## Experiment
 Experiment with the guidelines provided. If you and your peers can work more effectively by ignoring one or more of the methods described, please do so! The goal of the daily handoff is the fast and effective sharing of knowledge between you and your peers all over the globe. If you find ways which work better for you and your team, adopt them and evolve them!
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+#### Disclaimer
+All guidelines described on this site are based on our literature findings. All our references can be found in the [references](#references) section on this site. As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff, and should not be seen as rules which you _need_ to follow.
+
+#### References
+Carmel, E., Dubinsky, Y., & Espinosa, J. (2009). Follow the sun software development: New perspectives, conceptual foundation, and exploratory field study. *Proceedings of the 42nd Hawaii International Conference on System Sciences*, 1–9. <https://doi.org/10.1109/HICSS.2009.218>
+
+Hess, E. R., & Audy, J. L. N. (2012). FTSProc: A process to alleviate the challenges of projects that use the follow-the-sun strategy. *2012 ieee seventh international conference on global software engineering*, 56–64. <https://doi.org/10.1109/ICGSE.2012.27>
+
+Kroll, J., & Audy, J. L. N. (2012). Follow-the-sun strategy: A process for global software development. *2012 ieee seventh international conference on global software engineering workshops*, 76–78. <https://doi.org/10.1109/ICGSEW.2012.15>
+
+Kroll, J., Hashmi, S. I., Richardson, I., & Audy, J. L. N. (2013). A systematic literature review of best practices and challenges in follow-the-sun software development. *2013 ieee 8th international conference on global software engineering workshops*, 18–23. <https://doi.org/10.1109/ICGSEW.2013.10>
+
+Kroll, J., Richardson, I., Audy, J. L. N., & Fernandez, J. (2014). Handoffs management in follow-the-sun software projects: A case study. *2014 47th hawaii international conference on system sciences*, 331–339. <https://doi.org/10.1109/HICSS.2014.49>
+
+Prashanth G.L, Santosh Malagi, Laurens Van Den Bercken, Ade Setyawan Sajim and Bernd Kreynen. (2019). Follow the Sun. Retrieved from <https://follow-the-sun.github.io/>
+
+Treinen, J. J., & Miller-Frost, S. L. (2006). Following the sun: Case studies in global software development. *IBM Systems Journal*, *45*(4), 773–783. <https://doi.org/10.1147/sj.454.0773>
+
+Zendesk. (2018). How to follow the sun and provide great global support. Retrieved from <https://relate.zendesk.com/education/follow-sun-provide-great-global-support/>
+
+Zendesk. (2019). Improve remote support with a follow the sun model. Retrieved from <https://www.zendesk.nl/blog/improve-remote-support-follow-sun-model/>
