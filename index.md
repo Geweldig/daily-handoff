@@ -26,15 +26,12 @@ This is great advice for Follow-the-sun development in general, but is especiall
 ## Experiment
 Experiment with the guidelines provided. If you and your peers can work more effectively by ignoring one or more of the methods described, please do so! The goal of the daily handoff is the fast and effective sharing of knowledge between you and your peers all over the globe. If you find ways which work better for you and your team, adopt them and evolve them!
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<hr>
 
 #### Disclaimer
 All guidelines described on this site are based on our literature findings. All our references can be found in the [references](#references) section on this site. As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff, and should not be seen as rules which you _need_ to follow.
