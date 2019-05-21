@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-title: Daily Handoff
-description: Allowing you to easily start performing your daily handoff
+title: Tips for your Daily Handoff
+description: Helping you and your team ease their way into Follow-the-sun development
 plugins:
     - jekyll-seo-tag
