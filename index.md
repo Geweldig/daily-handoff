@@ -1,4 +1,4 @@
-## Daily Handoff
+# Daily Handoff
 Daily handoffs are an integral part of [Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) development. In order to efficiently start performing your daily handoffs, we have outlined a number of key guidelines you should take into account. These guidelines aim to ease your way into successfully performing Follow-the-sun development.
 
 ### 1. Be concise
