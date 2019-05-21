@@ -32,6 +32,9 @@ Experiment with the guidelines provided. If you and your peers can work more eff
 #### Disclaimer
 All guidelines described on this site are based on our literature findings. All the sources we consulted in order to derive these guidelines can be found in the [references](#references) section on this site. As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff. They should not be seen as rules which you _need_ to follow. If they do not work for you and your team, please do not use them!
 
+#### Additions
+Did we miss something? Do you have a guideline you believe should be added? Do you believe a guideline could be clearer? Please do let us know! This site is open source, and can be found [here](https://github.com/geweldig/daily-handoff). You can either open a pull request yourself, or send us an issue informing us of what should be altered or added! 
+
 #### References
 Carmel, E., Dubinsky, Y., & Espinosa, J. (2009). Follow the sun software development: New perspectives, conceptual foundation, and exploratory field study. *Proceedings of the 42nd Hawaii International Conference on System Sciences*, 1–9. <https://doi.org/10.1109/HICSS.2009.218>
 
