@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: Daily Handoff
 description: Allowing you to easily start performing your daily handoff
+plugins:
+    - jekyll-seo-tag
