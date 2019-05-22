@@ -4,3 +4,4 @@ description: Helping you and your team ease your way into Follow-the-sun develop
 google_analytics: UA-140665192-1
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap
