@@ -34,8 +34,21 @@ This is great advice for Follow-the-sun development in general, but is especiall
 ### Experiment
 Experiment with the guidelines provided. If you and your peers can work more effectively by ignoring or altering one or more of the methods described, please do so! The goal of the daily handoff is the fast and effective sharing of knowledge between you and your peers all over the globe. If you find ways which work better for you and your team, adopt them and evolve them!
 
-## What does this mean in practice?
-//TODO
+## And in practice?
+Some services which should help you follow these guidelines in practice are:  
+**Communication**
+ - [Slack](https://slack.com/)
+ - [Mattermost](https://mattermost.com/)
+ - [Flowdock](https://www.flowdock.com/)
+ - [Zulip](https://zulipchat.com/)
+ - [Google Hangouts](https://hangouts.google.com/)
+ - [Skype](https://hangouts.google.com/)
+
+**Keeping knowledge organised**
+ - [Trello](https://trello.com/)
+ - [Jira](https://www.atlassian.com/software/jira)
+
+These services should improve the communication between you and your peers. In practice, starting a video chat whenever possible will greatly improve the efficiency of the communication between you and your peers. If you want all your communication centralised Slack should fit your needs perfectly. It is also possible to integrate both Trello and Jira with Slack, meaning you can link all your services together to even further improve communication.
 
 <hr>
 
