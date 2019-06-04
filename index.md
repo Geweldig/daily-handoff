@@ -1,10 +1,11 @@
-# Follow-the-sun: The daily handoff
-## What and why?
-### What is Follow-the-sun?
-[Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) development, a sub-field of [globally distributed software engineering (GDSE)](https://en.wikipedia.org/wiki/Distributed_development#Globally_Distributed_Software_Engineering), allows teams all over the world to actively cooperate on the same product. This is  achieved by having multiple development teams in different time zones. When ever one development team stops their work for the day, a different team is immediately available to continue the work. This means that the amount of active development over time can be drastically increased. For example, if there are 3 teams who all work 8 hour days and start right after each other, the active development time over 24 hours would be 24 hours! 
+# What and why?
+With this website we aim to help you and your peers get familiar with follow the sun development. There is a lot of information already available about Follow-the-sun development (such as [here](https://en.wikipedia.org/wiki/Follow-the-sun) and [here](https://follow-the-sun.github.io)). However, a short introduction explaining what Follow-the-sun development actually is before jumping into the guidelines should be helpful as a quick refresher.
 
-### Why a daily handoff?
-A major part of Follow-the-sun development is the daily handoff (also referred to as the daily hand-off or daily handover). These daily handoffs are meant to transfer the knowledge of the system from a development team which is stopping for the day to a team which is just starting for the day, normally taking the form of a video call between teams. This is necessary as all development teams should know the goal of the system, and know what the current development status is. 
+## What is Follow-the-sun?
+[Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) development, a sub-field of [globally distributed software engineering (GDSE)](https://en.wikipedia.org/wiki/Distributed_development#Globally_Distributed_Software_Engineering), allows teams all over the world to actively cooperate on the same product. This is achieved by having multiple development teams in different time zones. When ever one development team stops their work for the day, a different team is immediately available to continue the work. This means that the amount of active development over time can be drastically increased. For example, if there are 3 teams who all work 8 hour days and start right after each other, the active development time over 24 hours would be 24 hours!
+
+## Why a daily handoff?
+A major part of Follow-the-sun development is the daily handoff (also referred to as the daily hand-off or daily handover). These daily handoffs are meant to transfer the knowledge of the system from a development team which is stopping for the day to a team which is just starting for the day, normally taking the form of a video call between teams. This is necessary as all development teams should know the goal of the system, and know what the current development status is.
 
 ## Guidelines
 With these guidelines we aim to help you start performing your daily handoffs efficiently, as they are important topics you should keep in mind. By this we hope you and your peers can become more productive, and effectively use Follow-the-sun development in practice.
@@ -33,13 +34,16 @@ This is great advice for Follow-the-sun development in general, but is especiall
 ### Experiment
 Experiment with the guidelines provided. If you and your peers can work more effectively by ignoring or altering one or more of the methods described, please do so! The goal of the daily handoff is the fast and effective sharing of knowledge between you and your peers all over the globe. If you find ways which work better for you and your team, adopt them and evolve them!
 
+## What does this mean in practice?
+//TODO
+
 <hr>
 
 #### Disclaimer
 All guidelines described on this site are based on our literature findings. All the sources we consulted in order to derive these guidelines can be found in the [references](#references) section on this site. As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff. They should not be seen as rules which you _need_ to follow. If they do not work for you and your team, please do not use them!
 
 #### Additions
-Did we miss something? Do you have a guideline you believe should be added? Do you believe a guideline could be clearer? Please do let us know! [This site is open source, and can be found here.](https://github.com/geweldig/daily-handoff) You can either open a pull request yourself, or send us an issue informing us of what should be altered or added! 
+Did we miss something? Do you have a guideline you believe should be added? Do you believe a guideline could be clearer? Please do let us know! [This site is open source, and can be found here.](https://github.com/geweldig/daily-handoff) You can either open a pull request yourself, or send us an issue informing us of what should be altered or added!
 
 #### References
 Carmel, E., Dubinsky, Y., & Espinosa, J. (2009). Follow the sun software development: New perspectives, conceptual foundation, and exploratory field study. *Proceedings of the 42nd Hawaii International Conference on System Sciences*, 1–9. <https://doi.org/10.1109/HICSS.2009.218>
