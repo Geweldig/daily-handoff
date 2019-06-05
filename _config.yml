@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 title: Tips for your Daily Handoff in FTS
-description: Tips and guidelines to help you and your team ease your way into Follow-the-sun development. A concise and to the point how to for your daily handover.
+description: Tips and guidelines to help you and your team get into Follow-the-sun development. A concise and to the point how to for your daily handover.
 google_analytics: UA-140665192-1
 plugins:
     - jekyll-seo-tag
