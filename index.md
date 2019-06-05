@@ -53,9 +53,9 @@ These services should improve the communication between you and your peers. In p
 <hr>
 
 #### Disclaimer
-All guidelines described on this site are based on our literature findings. All the sources we consulted in order to derive these guidelines can be found in the [sources](#sources) section on this site. As the guidelines are derived from our interpretation of the literature it is not clear which source inspired which guideline. However, if you want further information we would recommend reading the paper _"FTSProc: A process to alleviate the challenges of projects that use the follow-the-sun strategy"_ (Hess & Audy, 2012), as it covers most of the guidelines discussed on this webpage.
+All guidelines described on this site are based on our literature findings. All the sources we consulted in order to derive these guidelines can be found in the [sources](#sources) section on this site. As the guidelines are aggregated from the literature we reviewed, they are not directly referenced in the text but instead are mentioned as sources at the bottom of this webpage. However, if you want further information we would recommend reading the paper _"FTSProc: A process to alleviate the challenges of projects that use the follow-the-sun strategy"_ (Hess & Audy, 2012), as it covers most of the guidelines discussed on this webpage.
 
- As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff. They should not be seen as rules which you _need_ to follow. If they do not work for you and your team, please do not use them!  
+As already noted previously, all these guidelines should be taken as a jumping off point when performing your daily handoff. They should not be seen as rules which you _need_ to follow. If they do not work for you and your team, please do not use them!  
 
 #### Additions
 Did we miss something? Do you have a guideline you believe should be added? Do you believe a guideline could be clearer? Please do let us know! [This site is open source, and can be found here.](https://github.com/geweldig/daily-handoff) You can either open a pull request yourself, or send us an issue informing us of what should be altered or added!
